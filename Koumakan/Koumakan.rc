@@ -1,0 +1,106 @@
+// Microsoft Visual C++ generated resource script.
+//
+#include "resource.h"
+
+#define APSTUDIO_READONLY_SYMBOLS
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 2 resource.
+//
+#include "winres.h"
+
+/////////////////////////////////////////////////////////////////////////////
+#undef APSTUDIO_READONLY_SYMBOLS
+
+/////////////////////////////////////////////////////////////////////////////
+// 中文(简体，中国) resources
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_CHS)
+LANGUAGE LANG_CHINESE, SUBLANG_CHINESE_SIMPLIFIED
+
+#ifdef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// TEXTINCLUDE
+//
+
+1 TEXTINCLUDE 
+BEGIN
+    "resource.h\0"
+END
+
+2 TEXTINCLUDE 
+BEGIN
+    "#include ""winres.h""\r\n"
+    "\0"
+END
+
+3 TEXTINCLUDE 
+BEGIN
+    "\r\n"
+    "\0"
+END
+
+#endif    // APSTUDIO_INVOKED
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// WAVE
+//
+
+IDR_WAVE1               WAVE                    "F:\\_programming\\c++\\Koumakan\\music\\th06_01.wav"
+
+IDR_WAVE2               WAVE                    "F:\\_programming\\c++\\Koumakan\\music\\th06_02.wav"
+
+IDR_WAVE3               WAVE                    "F:\\_programming\\c++\\Koumakan\\music\\th06_03.wav"
+
+IDR_WAVE4               WAVE                    "F:\\_programming\\c++\\Koumakan\\music\\th06_04.wav"
+
+IDR_WAVE5               WAVE                    "F:\\_programming\\c++\\Koumakan\\music\\th06_05.wav"
+
+IDR_WAVE6               WAVE                    "F:\\_programming\\c++\\Koumakan\\music\\th06_06.wav"
+
+IDR_WAVE7               WAVE                    "F:\\_programming\\c++\\Koumakan\\music\\th06_07.wav"
+
+IDR_WAVE8               WAVE                    "F:\\_programming\\c++\\Koumakan\\music\\th06_08.wav"
+
+IDR_WAVE9               WAVE                    "F:\\_programming\\c++\\Koumakan\\music\\th06_09.wav"
+
+IDR_WAVE10              WAVE                    "F:\\_programming\\c++\\Koumakan\\music\\th06_10.wav"
+
+IDR_WAVE11              WAVE                    "F:\\_programming\\c++\\Koumakan\\music\\th06_12.wav"
+
+IDR_WAVE12              WAVE                    "F:\\_programming\\c++\\Koumakan\\music\\th06_13.wav"
+
+IDR_WAVE13              WAVE                    "F:\\_programming\\c++\\Koumakan\\music\\th06_14.wav"
+
+IDR_WAVE14              WAVE                    "F:\\_programming\\c++\\Koumakan\\music\\th06_15.wav"
+
+IDR_WAVE15              WAVE                    "F:\\_programming\\c++\\Koumakan\\music\\th06_16.wav"
+
+IDR_WAVE16              WAVE                    "F:\\_programming\\c++\\Koumakan\\music\\th06_17.wav"
+
+IDR_WAVE17              WAVE                    "F:\\_programming\\c++\\Koumakan\\music\\th06_11.wav"
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// txt
+//
+
+#endif    // 中文(简体，中国) resources
+/////////////////////////////////////////////////////////////////////////////
+
+
+
+#ifndef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 3 resource.
+//
+
+
+/////////////////////////////////////////////////////////////////////////////
+#endif    // not APSTUDIO_INVOKED
+
